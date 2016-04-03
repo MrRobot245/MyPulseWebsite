@@ -696,10 +696,13 @@ Parallax
   border-color: #666;
 }
 
-
+.btn-default{
+      border-radius: 5px ;
+}
 .btn-default:hover,
 .btn-default:focus {
     border: 1px solid #99C56F;
+    border-radius: 5px ;
     outline: 0;
     color: #000;
     background-color: #99C56F;
