@@ -699,10 +699,10 @@ Parallax
 
 .btn-default:hover,
 .btn-default:focus {
-    border: 1px solid #28c3ab;
+    border: 1px solid #99C56F;
     outline: 0;
     color: #000;
-    background-color: #28c3ab;
+    background-color: #99C56F;
 }
 
 .btn-huge {
